@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: administer fairy dust -->
+  <GS_Dust_Administer.label>administer fairy dust</GS_Dust_Administer.label>
+  <!-- EN: Administer a pouch of fairy dust. -->
+  <GS_Dust_Administer.description>Administer a pouch of fairy dust.</GS_Dust_Administer.description>
+  <!-- EN: Administering fairy dust. -->
+  <GS_Dust_Administer.jobString>Administering fairy dust.</GS_Dust_Administer.jobString>
+  <!-- EN: smelt fairy from dust -->
+  <Smelt_Fairy.label>smelt fairy from dust</Smelt_Fairy.label>
+  <!-- EN: Use high temperatures to smelt dust into a living fairy. -->
+  <Smelt_Fairy.description>Use high temperatures to smelt dust into a living fairy.</Smelt_Fairy.description>
+  <!-- EN: Smelting metal from slag. -->
+  <Smelt_Fairy.jobString>Smelting metal from slag.</Smelt_Fairy.jobString>
+</LanguageData>

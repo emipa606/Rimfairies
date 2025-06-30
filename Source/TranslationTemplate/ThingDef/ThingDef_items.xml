@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Fairy dust -->
+  <GS_Fairy_Dust.label>Fairy dust</GS_Fairy_Dust.label>
+  <!-- EN: Fairy dust from a butchered fairy. A potent healing salve, it can be used on a permanent condition to heal it.\nThree bags of this can be combined together into a new fairy. Fairies normally reproduce by naturally shedding dust until enough accumulates to create a new fairy, but domesticated fairies seem to stop shedding this mystical dust. -->
+  <GS_Fairy_Dust.description>Fairy dust from a butchered fairy. A potent healing salve, it can be used on a permanent condition to heal it.
+Three bags of this can be combined together into a new fairy. Fairies normally reproduce by naturally shedding dust until enough accumulates to create a new fairy, but domesticated fairies seem to stop shedding this mystical dust.</GS_Fairy_Dust.description>
+  <!-- EN: Use fairy dust -->
+  <GS_Fairy_Dust.comps.CompUsable.useLabel>Use fairy dust</GS_Fairy_Dust.comps.CompUsable.useLabel>
+  <!-- EN: Boxed fairy -->
+  <GS_Fairy_egg.label>Boxed fairy</GS_Fairy_egg.label>
+  <!-- EN: A container of fairy dust that is undergoing a process of psychically binding together into a new fairy. -->
+  <GS_Fairy_egg.description>A container of fairy dust that is undergoing a process of psychically binding together into a new fairy.</GS_Fairy_egg.description>
+  <!-- EN: Captured fairy -->
+  <GS_Fairy_Jar.label>Captured fairy</GS_Fairy_Jar.label>
+  <!-- EN: A bag with a trapped fairy. It is in a constant state of panic, psychically binding the strings holding it inside in an attempt to prevent anyone from touching it. This prevents the fairy from ever being released, but ironically it does not prevent it from being processed into other items. Can also be crushed against a corpse in order to resurrect the body. -->
+  <GS_Fairy_Jar.description>A bag with a trapped fairy. It is in a constant state of panic, psychically binding the strings holding it inside in an attempt to prevent anyone from touching it. This prevents the fairy from ever being released, but ironically it does not prevent it from being processed into other items. Can also be crushed against a corpse in order to resurrect the body.</GS_Fairy_Jar.description>
+  <!-- EN: Use the captured fairy to resurrect -->
+  <GS_Fairy_Jar.comps.CompUsable.useLabel>Use the captured fairy to resurrect</GS_Fairy_Jar.comps.CompUsable.useLabel>
+</LanguageData>

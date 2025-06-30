@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Fairy -->
+  <GS_Fairy.label>Fairy</GS_Fairy.label>
+  <!-- EN: A sapient sprite largely composed of psychic energy. While a rare sight, they have shown a pattern of appearing at locations with especially concentrated points of psychic energy, such as anima trees.\n\nWhile they are very timid around people, they become valuable companions when tamed. They can keep up with their master even through the roughest terrain, and provide words of encouragement and advice. Some people even claim that the advice they received sparked moments of brilliance and inspiration.\n\nHowever, if these features are unneeded, fairies can be processed into valuable items such as weapons or potent medical items. -->
+  <GS_Fairy.description>A sapient sprite largely composed of psychic energy. While a rare sight, they have shown a pattern of appearing at locations with especially concentrated points of psychic energy, such as anima trees.
+
+While they are very timid around people, they become valuable companions when tamed. They can keep up with their master even through the roughest terrain, and provide words of encouragement and advice. Some people even claim that the advice they received sparked moments of brilliance and inspiration.
+
+However, if these features are unneeded, fairies can be processed into valuable items such as weapons or potent medical items.</GS_Fairy.description>
+  <!-- EN: Body -->
+  <GS_Fairy.tools.Body.label>Body</GS_Fairy.tools.Body.label>
+</LanguageData>

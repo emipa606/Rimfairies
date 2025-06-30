@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Inspiring speech -->
+  <FairyDrive.label>Inspiring speech</FairyDrive.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] called upon [RECIPIENT_nameDef] to focus on his quest to save the world.</li>
+  -->
+  <FairyDrive.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] called upon [RECIPIENT_nameDef] to focus on his quest to save the world.</li>
+  </FairyDrive.logRulesInitiator.rulesStrings>
+</LanguageData>

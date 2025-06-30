@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1380811687
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e7861c332cc614b9f5984b557e4dcd1a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e7861c332cc614b9f5984b557e4dcd1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Fairy/C/Fairy_east.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Fairy/C/Fairy_north.png
+- Assets/Data/Mlie.Rimfairies/Sounds/Pawn/Use.ogg
+- Assets/Data/Mlie.Rimfairies/Textures/Things/UI/Wound.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Items/ShrineB.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Items/Stone.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/UI/Choice.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Fairy/B/Fairy_east.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Fairy/C/Fairy_south.png
+- Assets/Data/Mlie.Rimfairies/Sounds/Pawn/Call.ogg
+- Assets/Data/Mlie.Rimfairies/Textures/Things/UI/Catch.png
+- Assets/Data/Mlie.Rimfairies/Sounds/Pawn/Listen.ogg
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Fairy/Dead.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Fairy/Fairy_north.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/UI/Play.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/UI/Talk.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Fairy/B/Fairy_north.png
+- Assets/Data/Mlie.Rimfairies/Sounds/Pawn/B.ogg
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Fairy/Fairy_east.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Fairy/B/Fairy_south.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Items/ShrineA.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Items/Box.png
+- Assets/Data/Mlie.Rimfairies/Sounds/Pawn/Rez.ogg
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Fairy/D/Fairy_north.png
+- Assets/Data/Mlie.Rimfairies/Sounds/Pawn/C.ogg
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Fairy/D/Fairy_south.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Fairy/Fairy_south.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Fairy/D/Fairy_east.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Items/Jar.png
+- Assets/Data/Mlie.Rimfairies/Textures/Things/Items/Dust.png
+Dependencies: []

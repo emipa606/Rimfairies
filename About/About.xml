@@ -7,6 +7,7 @@
   <supportedVersions>
     <li>1.4</li>
     <li>1.5</li>
+    <li>1.6</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -92,7 +93,6 @@ Credits to Tyrant
 
 
 [img]https://i.imgur.com/6paX59x.png[/img]
-[url=https://discord.gg/GU6s5eGDEP] [img]https://i.imgur.com/5j34bNQ.png[/img][/url]
 Thanks to Shield for helping me with the Workshop art in general.
 Thanks to Catlover for the help with the descriptions.
 Thanks to Van who told me my stuff looks like shit. I redid several sprites because of him.
@@ -116,10 +116,10 @@ Updated to 1.4
 
 [img]https://i.imgur.com/yrOw3L4.png[/img]
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2871410566][img]https://i.imgur.com/xyv0AhY.png[/img][/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3424215980][img]https://steamuserimages-a.akamaihd.net/ugc/16427546917021690/AABDA63CC91627C4B8CFDBFA9089FE90DF2E4F14/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false[/img][/url]
 
 Translations
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2870545662][img]https://i.imgur.com/cEC2EmA.png[/img][/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2870545662][img]https://steamuserimages-a.akamaihd.net/ugc/1917995851103044524/E1C72A39B79C6AABE7EECA12CF5C55D17516D102/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false[/img][/url]
 
 [img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
@@ -130,6 +130,8 @@ Translations
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.0</modVersion>
+[/list] 
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3424205957][img]https://img.shields.io/github/v/release/emipa606/Rimfairies?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  fantasy,  psychic abilities</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
 </ModMetaData>

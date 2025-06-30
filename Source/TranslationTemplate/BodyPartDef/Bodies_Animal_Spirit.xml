@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: core -->
+  <GS_Brain.label>core</GS_Brain.label>
+  <!-- EN: core shell -->
+  <GS_Skull.label>core shell</GS_Skull.label>
+  <!-- EN: body -->
+  <SpiritBody.label>body</SpiritBody.label>
+  <!-- EN: head -->
+  <SpiritHead.label>head</SpiritHead.label>
+</LanguageData>

@@ -1,4 +1,4 @@
-# [Rimfairies (Continued)]()
+# [Rimfairies (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3424205957)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -73,7 +73,6 @@ Credits to Tyrant
 
 ![Image](https://i.imgur.com/6paX59x.png)
 
-[ ![Image](https://i.imgur.com/5j34bNQ.png)](https://discord.gg/GU6s5eGDEP)
 Thanks to Shield for helping me with the Workshop art in general.
 Thanks to Catlover for the help with the descriptions.
 Thanks to Van who told me my stuff looks like shit. I redid several sprites because of him.
@@ -98,10 +97,10 @@ Updated to 1.4
 
 ![Image](https://i.imgur.com/yrOw3L4.png)
 
-[![Image](https://i.imgur.com/xyv0AhY.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2871410566)
+[![Image](https://steamuserimages-a.akamaihd.net/ugc/16427546917021690/AABDA63CC91627C4B8CFDBFA9089FE90DF2E4F14/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)](https://steamcommunity.com/sharedfiles/filedetails/?id=3424215980)
 
 Translations
-[![Image](https://i.imgur.com/cEC2EmA.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2870545662)
+[![Image](https://steamuserimages-a.akamaihd.net/ugc/1917995851103044524/E1C72A39B79C6AABE7EECA12CF5C55D17516D102/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)](https://steamcommunity.com/sharedfiles/filedetails/?id=2870545662)
 
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
@@ -115,4 +114,6 @@ Translations
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
+[![Image](https://img.shields.io/github/v/release/emipa606/Rimfairies?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3424205957) | tags:  fantasy,  psychic abilities

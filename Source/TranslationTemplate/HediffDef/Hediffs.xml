@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Supernatural -->
+  <FairyImmunity.label>Supernatural</FairyImmunity.label>
+  <!-- EN: Hey no dev mode -->
+  <FairyImmunity.description>Hey no dev mode</FairyImmunity.description>
+  <!-- EN: Supernatural -->
+  <FairyImmunity.labelNoun>Supernatural</FairyImmunity.labelNoun>
+  <!-- EN: strengthened by bond -->
+  <GS_Fairy_Bound.label>strengthened by bond</GS_Fairy_Bound.label>
+  <!-- EN: This fairy has someone that it can order around. -->
+  <GS_Fairy_Bound.description>This fairy has someone that it can order around.</GS_Fairy_Bound.description>
+  <!-- EN: focused -->
+  <GS_Focus.label>focused</GS_Focus.label>
+  <!-- EN: Mental focus, increasing sight, hearing and movement capactities. -->
+  <GS_Focus.description>Mental focus, increasing sight, hearing and movement capactities.</GS_Focus.description>
+</LanguageData>
